@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/d1.jpg</ImageUrl>
+    <NavigateUrl>http://www.kingsdeliveryservice.com/</NavigateUrl>
+    <AlternateText>Kings Delivery Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>delv1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/d10.png</ImageUrl>
+    <NavigateUrl>http://lorrydelivery.com/</NavigateUrl>
+    <AlternateText>Lorry Delivery Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>delv1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/d11.jpg</ImageUrl>
+    <NavigateUrl>http://fxtran.com/</NavigateUrl>
+    <AlternateText>Falcon Express Delivery Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>delv1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/d12.png</ImageUrl>
+    <NavigateUrl>https://www.usps.com/</NavigateUrl>
+    <AlternateText>USPS Delivery Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>delv1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/d4.png</ImageUrl>
+    <NavigateUrl>http://www.dhl.com/en.html</NavigateUrl>
+    <AlternateText>DHL Delivery Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>delivery2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/d6.jpg</ImageUrl>
+    <NavigateUrl>https://www.ups.com/</NavigateUrl>
+    <AlternateText>UPS Delivery Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>delv2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/d7.jpg</ImageUrl>
+    <NavigateUrl>http://www.fedex.com/us/</NavigateUrl>
+    <AlternateText>Fedex Delivery Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>delv2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/d8.jpg</ImageUrl>
+    <NavigateUrl>http://www.exceldeliveryservice.net/</NavigateUrl>
+    <AlternateText>Xcel Delivery Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>delv2</Keyword>
+  </Ad>
+</Advertisements>

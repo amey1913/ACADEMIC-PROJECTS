@@ -1,0 +1,350 @@
+﻿body
+{
+    background-color:#c9f5f6;
+}
+
+.Main_Table
+{
+    margin-left:270px;
+    margin-right:250px;
+    align-items:center;
+    width:80%; 
+    height:100%;
+}
+
+.Banner_Img
+{
+    width:100%;
+    height:450px;
+    border:groove;
+}
+
+.Nav
+{
+    height:80px;
+    width:100%;
+    text-align:center;
+    background-color:#233185;
+    font-weight:bold;
+    font-size:40px;
+
+}
+
+.Nav td
+{
+    border-style:solid;
+    border-collapse:separate;
+    border-color:#ffffff #ffffff #ffffff #ffffff; 
+}
+
+.Nav td a
+{
+    color:#ffffff;
+}
+
+.radios input
+{
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+
+.Adv_1
+{
+    text-align:center;
+    background-color:#ff6a00;
+    padding-bottom:20px;
+}
+
+.Adv_1 h1
+{
+    text-align:center;
+    color:#f0f6f6;
+    font-size:40px;
+}
+
+.Adv_1 strong 
+{
+    text-align:center;
+    color: #000000;
+    font-size: 30px;
+}
+
+.Adv_2
+{
+    padding:15px 15px 15px 15px; 
+    background-color:#ffffff;
+    width:200px;
+    height:500px;
+}
+
+.Adv_2 img
+{
+    width:100%;
+    height:100%;
+}
+.Login_Accounts
+{
+    background-color:#e4ce54;
+    padding:20px 20px 20px 20px;
+    
+    vertical-align:top;
+    border:groove;
+
+    font-weight:bold;
+    text-align:left;
+    
+    color:#2f440d;
+    
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Content_Text
+{
+    background-color:#e4ce54;
+}
+
+.Content_Text td
+{
+    padding-left:20px;
+    width:610px;
+    height:450px;
+}
+
+.Content_Text h1
+{
+    text-align:center;
+    color:#9c4303;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:100px;
+    font-style:italic;  
+}
+
+.Content_Text p
+{
+    font-weight:bold;
+    text-align:left;
+    color:#2f440d;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;  
+}
+
+.contactUS
+{
+    background-color:#e4ce54;
+}
+
+.contactUS td
+{
+    align-content:stretch;
+    padding-left:10px;
+
+    width:60%;
+    height:70%;
+}
+
+.emailUS td
+{
+    align-items:flex-start;
+    padding-left:10px;
+    color:#2f440d;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;  
+}
+
+.contactUS h1
+{
+    text-align:center;
+    color:#9c4303;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:70px;
+    font-style:italic;  
+}
+
+.About_Text
+{
+    background-color:#e4ce54;    
+    border:groove;
+    padding:20px 20px 20px 20px;
+    height:100%;
+    width:100%;
+    text-align:center;
+}
+
+.About_Text h1
+{
+    text-align:center;
+    color:#9c4303;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:100px;
+    font-style:italic;  
+}
+
+
+.About_Text h3
+{
+    font-size:40px;
+    text-align:center;
+    text-decoration: underline;
+    color:#a70000;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:initial;  
+}
+
+.About_Text p
+{
+    font-weight:bold;
+    text-align:center;
+    color:#2f440d;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;  
+}
+
+
+.Service_Text
+{
+    background-color:#e4ce54;
+    border:none;
+    text-align:center;
+}
+
+.Service_Text h3
+{
+    font-size:40px;
+    text-align:center;
+    text-decoration: underline;
+    color:#a70000;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:initial;  
+}
+
+.Service_Text ul
+{
+    font-size:40px;
+    text-align:left;
+    text-decoration: underline;
+    color:#4a7700;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:initial;  
+}
+ 
+.Service_Text p
+{
+    font-weight:bold;
+    text-align:left;
+    color:#2f440d;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;  
+}
+
+.Service_Text td
+{
+    padding-left:20px;
+    width:610px;
+    height:450px;
+}
+
+.Service_Text h1
+{
+    text-align:center;
+    color:#9c4303;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:120px;
+    font-style:italic;  
+}
+
+
+.Resources_Text
+{
+    background-color:#e4ce54;
+    border:none;
+    text-align:center;
+}
+ 
+.Resources_Text p
+{
+    font-weight:bold;
+    text-align:center;
+    color:#9c4303;
+    font-size:50px;
+    font-family:'Times New Roman', Times, serif;  
+}
+
+.Resources_Text td
+{
+    padding-left:20px;
+    width:610px;
+    height:450px;
+}
+
+.Resources_Text h1
+{
+    text-align:center;
+    color:#9c4303;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:120px;
+    font-style:italic;  
+}
+
+
+.Content_Text h3
+{
+    font-size:40px;
+    text-align:center;
+    text-decoration: underline;
+    color:#a70000;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:initial;  
+}
+
+.Contact_Text
+{
+
+    background-color:#e4ce54;
+    border:none;
+}
+
+.Contact_Text td
+{
+    
+    padding-top:20px;
+    padding-left:100px;
+    padding-right:100px;
+    width:610px;
+    height:100%;
+    font-weight:bold;
+    text-align:center   ;
+    color:#2f440d;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;  
+}
+
+.Contact_Text p
+{
+    font-weight:bold;
+    text-align:center;
+    color:#9c4303;
+    font-size:50px;
+    font-family:'Times New Roman', Times, serif;  
+}
+
+.Contact_Text h1
+{
+    text-align:center;
+    color:#9c4303;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:120px;
+    font-style:italic;  
+}
+
+
+.Contact_Text h3
+{
+    font-size:40px;
+    text-align:center;
+    text-decoration: underline;
+    color:#a70000;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:initial;  
+}

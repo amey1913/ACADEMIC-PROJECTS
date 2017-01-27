@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContactInfo>
+<info toll-free-phone="(888)610-1244" 
+        city-one="Houston"
+        houston-phone="(281)771-2815"
+        city-two="Austin"
+        austin-phone="(214)837-0019"
+        city-three="Dallas"
+        dallas-phone="1-800-388-1785"
+        city-four="El Paso"
+        elpaso-phone="1-888-652-1881"
+        city-five="San Antonio"
+        sanantonio-phone="1-800-398-0188"
+        city-six="Rio Grande Valley"
+        riogrande-phone="1-888-928-0911"
+        city-seven="Corpus Christi"
+        corpus-phone="1-888-878-8000"
+        city-eight="East Texas"
+        easttx-phone="1-800-378-1730"
+        city-nine="West Texas"
+        westtx-phone="1-888-013-9761"
+        contact-email="customer-service@tds.com"/>
+</ContactInfo>
