@@ -1,0 +1,12 @@
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\bin\Debug\PriyankaShah_Assignment2.exe.config
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\bin\Debug\PriyankaShah_Assignment2.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\bin\Debug\PriyankaShah_Assignment2.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.csprojResolveAssemblyReference.cache
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.Form1.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.Properties.Resources.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.csproj.GenerateResource.Cache
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.Form2.resources
+C:\Users\Priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.Form3.resources
+C:\Users\Priyanka\documents\visual studio 2015\Projects\PriyankaShah_Assignment2\PriyankaShah_Assignment2\obj\Debug\PriyankaShah_Assignment2.Form4.resources
